@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = crombackjulien@gmail.com
+	name = Julien Cromback
